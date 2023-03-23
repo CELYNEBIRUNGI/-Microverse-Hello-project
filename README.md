@@ -53,7 +53,8 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [  Microverse-Hello-project] <a name="about-project"></a>
+# 📖 [  Microverse-Hello-project]
+ <a name="about-project"></a>
 
 > Hello Microverse Project from Module 1 of Microverse Full-stack and software development program.
 
@@ -73,7 +74,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@BlesslinJerishR](https://github.com/CELYNEBIRUNGI)
+GitHub: [@Celyne](https://github.com/CELYNEBIRUNGI)
+
 
 <!-- SUPPORT -->
 
